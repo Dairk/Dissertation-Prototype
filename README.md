@@ -1,2 +1,3 @@
 # Dissertation-Prototype
-A prototype mini game in Unreal researching a third person style action game which includes methods for dealing with anxiety.
+2 prototype breathing excercise meditations.
+1 ttraditional and 1 with a proteus effect.
